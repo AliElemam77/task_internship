@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:task/widgets/app_style.dart';
-import 'package:task/widgets/custom_buttom.dart';
-import 'package:task/widgets/reusable_text.dart';
+import 'package:task/common/app_style.dart';
+import 'package:task/common/custom_buttom.dart';
+import 'package:task/common/reusable_text.dart';
 
 class OnBoardingCard extends StatelessWidget {
   OnBoardingCard({
